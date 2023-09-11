@@ -2,7 +2,7 @@ import styled from './Footer.module.css';
 
 const Footer = () => {
   return (
-    <div className={styled.attribution}>
+    <footer className={styled.attribution}>
       Challenge by{' '}
       <a
         href='https://www.frontendmentor.io?ref=challenge'
@@ -18,7 +18,7 @@ const Footer = () => {
         HauroDev
       </a>
       .
-    </div>
+    </footer>
   );
 };
 
