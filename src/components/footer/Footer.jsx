@@ -10,7 +10,14 @@ const Footer = () => {
         rel='noreferrer'>
         Frontend Mentor
       </a>
-      . Coded by <a href='#'>Your Name Here</a>.
+      . Coded by{' '}
+      <a
+        href='https://github.com/HauroDev'
+        target='_blank'
+        rel='noreferrer'>
+        HauroDev
+      </a>
+      .
     </div>
   );
 };
